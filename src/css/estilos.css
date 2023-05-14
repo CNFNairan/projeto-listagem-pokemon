@@ -79,6 +79,10 @@ main .cartao-pokemon .informacoes span {
 	font-size: 17px;
 }
 
+main .cartao-pokemon .informacoes .numeracao {
+    font-weight: bolder;
+}
+
 main .cartao-pokemon .gif {
 	width: 90px;
 	height: 90px;
